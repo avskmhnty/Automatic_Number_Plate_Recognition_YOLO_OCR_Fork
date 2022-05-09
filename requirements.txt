@@ -6,12 +6,14 @@ seaborn==0.11.1
 opencv_python_headless==4.5.5.62
 Flask==1.1.2
 onnxruntime==1.10.0
-easyocr==1.4.1
+#easyocr==1.4.1
+easyocr
 coremltools==5.2.0
 torchvision==0.9.1
 requests==2.25.1
 psutil==5.8.0
-numpy==1.16.4
+#numpy==1.16.4
+numpy
 scipy==1.4.1
 tqdm==4.63.0
 openvino==2021.4.2
@@ -23,5 +25,6 @@ keras_ocr==0.8.9
 pafy==0.5.5
 Pillow==9.1.0
 PyYAML==6.0
-tensorrt==0.0.1.dev5
-
+#tensorrt==0.0.1.dev5
+nvidia-pyindex
+tensorrt
